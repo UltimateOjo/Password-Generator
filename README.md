@@ -4,7 +4,7 @@
 
 A password generator that gives you a password with length 8-128 and asks whether or not you want to add symbols, uppercase letters and/or numbers.
 
-#Credits
+# Credits
 
 Olugbenga Ojo
 
